@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs-deploy
+        nuxtjs-deploy v2.0
       </h1>
       <h2 class="subtitle">
         Buddy.works test
